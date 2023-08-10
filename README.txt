@@ -41,7 +41,3 @@ To view the project:
 ## Acknowledgment
 
 Gratitude to all the CSS pioneers and gurus whose work and insights contributed to the inspiration behind this project.
-
----
-
-Feel free to modify this README to better align with the specifics of your project or to incorporate any additional sections or details you'd like to highlight!
